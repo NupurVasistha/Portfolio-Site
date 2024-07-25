@@ -2,20 +2,9 @@
 
 Welcome to my personal portfolio! 🎨
 
-## About Me
-
-I'm Nupur Vasistha, a 4th-year Computer Science Engineering student at GWECA. I am passionate about software development, data science, and innovative technology solutions. Currently, I am gaining practical experience through an internship at Celebal Technologies, where I am exploring data science and its applications.
-
 ## Visit My Portfolio
 
 Explore my portfolio and projects directly at my website: [Nupur Vasistha's Portfolio](https://nupurvasistha.github.io/Portfolio-Site/)
-
-## Skills & Technologies
-
-- **Programming Languages:** Java, Python, JavaScript
-- **Web Development:** HTML, CSS, React
-- **Data Science:** Pandas, NumPy, Machine Learning
-- **Tools & Platforms:** Git, GitHub, VS Code
 
 ## Contact
 
